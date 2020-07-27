@@ -50,6 +50,7 @@ Response
   "browsers": {
     ...
   }
+}
 ```
 
 ## Dockerless start
