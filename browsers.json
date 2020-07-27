@@ -1,0 +1,14 @@
+{
+    "chrome": {
+        "default": "84.0",
+        "versions": {
+            "84.0": {
+                "image": "selenoid/chrome:84.0",
+                "port": "4444",
+                "env": [
+                    "TZ=Asia/Nicosia"
+                ]
+            }
+        }
+    }
+}
